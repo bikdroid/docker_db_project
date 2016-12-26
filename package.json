@@ -1,0 +1,22 @@
+{
+  "name": "docker_project",
+  "version": "1.0.0",
+  "description": "using docker to perform database operations -- database project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikdroid/docker_db_project.git"
+  },
+  "keywords": [
+    "docker"
+  ],
+  "author": "Bikramjit Mandal <edu.bmandal@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikdroid/docker_db_project/issues"
+  },
+  "homepage": "https://github.com/bikdroid/docker_db_project#readme"
+}
